@@ -1,0 +1,29 @@
+Yellow Circle Notes
+
+Original Concepts for Game:
+-A Semi-Walking sim where you would speak to random NPCs in a post apocalyptic environment to find the Yellow
+Circle, an entity that caused the apocalypse and kill it, whether it be for revenge or to try and save the world.
+Players would learn about the world as they did this. Ultimately decided there wasn't enough time to write enough
+of a story for this to work.
+
+-A Wave fighter.  There would be constant waves of eyes being sent after you as the last person in a post apocalyptic
+world after being taken over by the Yellow Circle.  You would have to fight them off, with there being multiple types.
+Idea ultimately stopped after realizing that along with learning how to properly spawn enemies in waves, there'd also
+have to be various types of enemies for challenge, and coming up with the various types could've added on too much time.
+
+-Final concept.  The simple but efficient atmospheric collect and run game.  A single eye chases you, getting faster
+with each item you collect.  Ultimately, if you fail to figure out how to slow it down you will lose shortly after the 
+halfway point.  Still a post apocalyptic story, with the Yellow Circle being an entity that constantly looks down on you
+throughout the process of the game.
+
+Unused Ideas:
+-Multiple Eyes Spawning
+Ultimately scrapped because they would all end up overlapping each other following you. Making them vary in speed
+would just make one more efficient than the others.
+
+-Fighting and Killing the Eye
+Seemed unnecessary.  Also wouldn't make any sense with the story.
+
+-The Yellow Eye Attacking
+Was going to fire a laser at your position after you had all 15 effigies.  Scrapped because it would either
+be too easy (player is constantly moving anyway) or too difficult (instantly homing in and killing the player).
